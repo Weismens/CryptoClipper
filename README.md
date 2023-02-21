@@ -2,7 +2,7 @@
 +Clipper turns on and replaces crypto wallet addresses in the clipboard when a user makes a transaction.
 
 # Functions:
-+Support for 40 cryptocurrencies.
+*Support for 40 cryptocurrencies.
 +Light build about 200 kb.
 
 # Install
